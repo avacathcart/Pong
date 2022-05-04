@@ -28,7 +28,8 @@ void gameoverClicks(){
     theme.rewind();
     lefty = height/2;
     righty = height/2;
-    
+    x = 50;
+    y = 50;
     //ping pong ball animation
    
 }  
